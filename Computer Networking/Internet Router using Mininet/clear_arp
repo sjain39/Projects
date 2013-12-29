@@ -1,0 +1,1 @@
+arp -n|awk '/^[1-9]/{system("arp -d "$1)}'

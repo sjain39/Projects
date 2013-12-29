@@ -1,0 +1,4 @@
+findit.cpp: In function ‘void displaySummarize(char*)’:
+findit.cpp:192:67: warning: format ‘%lld’ expects argument of type ‘long long int’, but argument 2 has type ‘__dev_t {aka long unsigned int}’ [-Wformat]
+findit.cpp:195:69: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘__nlink_t {aka long unsigned int}’ [-Wformat]
+findit.cpp:198:68: warning: format ‘%lld’ expects argument of type ‘long long int’, but argument 2 has type ‘__dev_t {aka long unsigned int}’ [-Wformat]
